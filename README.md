@@ -15,18 +15,26 @@ Fichiers:
 Auteurs : XeR
 
 
-Origine : [HTTP 2](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-ktruc/)
+Origine : [ktruc](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-ktruc/)
+
 
 
 
 -----------
 
-## Connectez vous
+## Connectez vous en WEBSSH
 > http://localhost
 
+#### tentez 
+> nc ktruc.cyrhades.fr 4000
 
 -----------
 
+## Ou directement avec netcat
+> nc localhost 4000
+
+
+-----------
 
 ## Installation manuel
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
